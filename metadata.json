@@ -1,0 +1,5 @@
+{
+  "name": "CSV Earning Analyst by Tuấn Đức",
+  "description": "Một ứng dụng phân tích thu nhập từ tệp CSV giúp lọc tiêu đề video, nhãn tùy chỉnh và tính tổng thu nhập theo từng nhóm nội dung một cách tự động và chuyên nghiệp.",
+  "requestFramePermissions": []
+}
